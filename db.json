@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "6c14",
+      "addName": "İphone 15 pro",
+      "addDescription": "Tez isinen telefondur",
+      "addPrice": "3500",
+      "addImage": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png"
+    },
+    {
+      "id": "2600",
+      "addName": "Xiomi redmi note 13",
+      "addDescription": "Daxili yaddaş 128GB",
+      "addPrice": "600",
+      "addImage": "https://bsimg.nl/images/xiaomi-redmi-note-13-4g-8gb-256gb-blauw_1.png/8Q1jadxmq_6VnGYqmPXZO73ZARg%3D/fit-in/257x400/filters%3Aformat%28png%29%3Aupscale%28%29"
+    },
+    {
+      "id": "0b3e",
+      "addName": "Xiomi redmi note 7",
+      "addDescription": "Dözümlü uzunömürlü telefon modeli",
+      "addPrice": "1500",
+      "addImage": "https://i01.appmifile.com/webfile/globalimg/products/m/redmi-note-7-pro/head_bg22.jpg"
+    },
+    {
+      "id": "f61a",
+      "addName": "Acer Nitro 5",
+      "addDescription": "İstehsalçı Acer Model Nitro 5 AN515-55-53G",
+      "addPrice": "6000",
+      "addImage": "https://kontakt.az/media/catalog/product/cache/a404967cc40694dc557cd869288440a4/1/-/1-1-2_png.png"
+    }
+  ]
+}
