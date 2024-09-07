@@ -36,10 +36,10 @@ addForm.addEventListener("submit", async (e) => {
              method: "POST",
              body: JSON.stringify(newData)
          })
-         alertMessage("success", "Elave edildi")
+         alertMessage("success", "Added successfully")
      }  
     } catch (error) {
-        alertMessage("danger", "Əməliyyat uğursuz oldu")
+        alertMessage("danger", "Operation failed")
     }
    
    

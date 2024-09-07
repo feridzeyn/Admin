@@ -2,31 +2,38 @@
   "products": [
     {
       "id": "6c14",
-      "addName": "İphone 15 pro",
-      "addDescription": "Tez isinen telefondur",
-      "addPrice": "3500",
+      "addName": "Iphone 15 pro",
+      "addDescription": "Heats early",
+      "addPrice": "3500$",
       "addImage": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png"
     },
     {
       "id": "2600",
       "addName": "Xiomi redmi note 13",
-      "addDescription": "Daxili yaddaş 128GB",
+      "addDescription": "Memory 13GB",
       "addPrice": "600",
       "addImage": "https://bsimg.nl/images/xiaomi-redmi-note-13-4g-8gb-256gb-blauw_1.png/8Q1jadxmq_6VnGYqmPXZO73ZARg%3D/fit-in/257x400/filters%3Aformat%28png%29%3Aupscale%28%29"
     },
     {
       "id": "0b3e",
-      "addName": "Xiomi redmi note 7",
-      "addDescription": "Dözümlü uzunömürlü telefon modeli",
+      "addName": "Memory 128GB",
+      "addDescription": "Strong phone",
       "addPrice": "1500",
       "addImage": "https://i01.appmifile.com/webfile/globalimg/products/m/redmi-note-7-pro/head_bg22.jpg"
     },
     {
       "id": "f61a",
       "addName": "Acer Nitro 5",
-      "addDescription": "İstehsalçı Acer Model Nitro 5 AN515-55-53G",
-      "addPrice": "6000",
+      "addDescription": "Acer Model Nitro 5 AN515-55-53G",
+      "addPrice": "6000$",
       "addImage": "https://kontakt.az/media/catalog/product/cache/a404967cc40694dc557cd869288440a4/1/-/1-1-2_png.png"
+    },
+    {
+      "id": "031f",
+      "addName": "MacBook Air M1",
+      "addDescription": "APPLE MacBook Air 13\" (2020) A2337 Space Gray",
+      "addPrice": "8500",
+      "addImage": "https://assets-prd.ignimgs.com/2021/01/27/m1-macbook-air-4-1611791801127.jpeg"
     }
   ]
 }

@@ -79,7 +79,7 @@ async function getData() {
        
 
     } catch (error) {
-        alertMessage("danger", "Xeta bas verdi")
+        alertMessage("danger", "Something is wrong...")
     }
 }
 
@@ -122,9 +122,9 @@ async function deleteItem(deleted, id) {
             productsDelete.remove()
 
         }
-        alertMessage("success", "Uğurlu şəkildə silindi")
+        alertMessage("success", "Deleted successfully")
     } catch (error) {
-        alertMessage("danger", "Siline bilmedi")
+        alertMessage("danger", "Something went wrong while deleting")
     }
 }
 
