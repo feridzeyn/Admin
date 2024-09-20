@@ -90,7 +90,7 @@ function createTable(arr){
        <tr>
            <th>Product's Name</th>
            <th>Product's Description</th>
-           <th>Product's Price</th>
+           <th>Product's Price ($)</th>
            <th>Operations</th>
           
        </tr>
